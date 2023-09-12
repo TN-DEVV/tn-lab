@@ -15,4 +15,4 @@ qbcore laboratories, methlab and cokelab
  3- add new items for ingrediants or just change them
 
 # Preview
-(https://www.youtube.com/watch?v=SugRBdo7D2U)https://www.youtube.com/watch?v=SugRBdo7D2U
+https://www.youtube.com/watch?v=SugRBdo7D2U
