@@ -16,3 +16,6 @@ qbcore laboratories, methlab and cokelab
 
 # Preview
 https://www.youtube.com/watch?v=SugRBdo7D2U
+
+# Discord
+https://discord.gg/AWrykAeXye
